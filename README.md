@@ -28,8 +28,8 @@ Official repository for the paper: **"EERLoss: A Novel Loss Function for Trainin
 - [6. Usage](#6-usage)
   - [PyTorch](#pytorch)
   - [TensorFlow / Keras](#tensorflow--keras)
-- [8. Citation](#8-citation)
-- [9. Acknowledgment](#9-acknowledgment)
+- [7. Citation](#8-citation)
+- [8. Acknowledgment](#9-acknowledgment)
 
 ---
 
@@ -159,7 +159,7 @@ loss_value = eer_loss(y_true=None, y_pred=embeddings)
 
 ```
 
-## 8. Citation
+## 7. Citation
 
 ```bibtex
 @article{gonzalez2026eerloss,
@@ -171,6 +171,6 @@ loss_value = eer_loss(y_true=None, y_pred=embeddings)
 }
 ```
 
-## 9. Acknowledgment
+## 8. Acknowledgment
 
 This project has been supported by Cátedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI100927-2023-2) and TRUST-ID (PID2025-173396OB-100 MICIU/AEI and the EU). Robledo-Moreno is supported by a FPI Fellowship (FPI-UAM-2025).
