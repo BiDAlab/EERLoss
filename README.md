@@ -61,9 +61,9 @@ Deep biometric models are commonly trained to optimize for embedding separabilit
 
 For each training batch, we define L as the set of distances between embeddings of samples that share the same label. The set I will consist of the distances between the embeddings of samples with different labels:
 
-$$FRR(L,d)=1-\frac{|\{d^{L}\in L:d^{L}>d\}|}{|L|}$$
+$$FRR(L,d)=1-\frac{|\{d^{L}\in L : d^{L} > d\}|}{|L|}$$
 
-$$FAR(I,d)=\frac{|\{d^{I}\in I:d^{I}<d\}|}{|I|}$$
+$$FAR(I,d)=\frac{|\{d^{I}\in I : d^{I} < d\}|}{|I|}$$
 
 Problem statement: Find a subdifferentiable function $\mathcal{L}(L,I)$ that, given the sets L and I containing the distances between samples of the same user and those of different users, respectively, approximates $EER(L,I)$ arbitrarily well. 
 
