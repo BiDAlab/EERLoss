@@ -163,9 +163,9 @@ loss_value = eer_loss(y_true=None, y_pred=embeddings)
 @article{gonzalez2026eerloss,
   title   = {EERLoss: A Novel Loss Function for Training Deep Biometric Models. A Case Study in Keystroke Dynamics},
   author  = {Gonzalez, Nahuel and Robledo-Moreno, Marta and DeAndres-Tame, Ivan and Vera-Rodriguez, Ruben and Tolosana, Ruben},
-  journal = {IEEE Transactions on Information Forensics and Security},
+  journal = {arxiv},
   year    = {2026},
-  note    = {Under revision}
+  note    = {Under revision TIFS}
 }
 
 ```
