@@ -9,7 +9,7 @@ Official repository for the paper: **"EERLoss: A Novel Loss Function for Trainin
 <a href="https://rubentolosana.github.io/">Ruben Tolosana Moranchel</a> &emsp;<br></h5>
 
 [![Status](https://img.shields.io/badge/Status-Under_Revision-orange)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/ieee-transactions)
-[![arXiv](https://img.shields.io/badge/arXiv-ID_AQUÍ-B31B1B.svg)](https://arxiv.org/abs/ID_AQUÍ)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.24586-B31B1B.svg)](https://arxiv.org/abs/2606.24586)
 
 ---
 
